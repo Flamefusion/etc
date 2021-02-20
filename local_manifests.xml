@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="Flamefusion/device_xiaomi_surya" path="device/xiaomi/surya" remote="gitlab" revision="dumaloo-release"/>
+<project name="Flamefusion/vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="gitlab" revision="dumaloo-release"/>
+<project name="Flamefusion/kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="gitlab" revision="stock"/>
+</manifest>
